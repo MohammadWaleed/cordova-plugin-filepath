@@ -17,6 +17,7 @@ $ cordova plugin add cordova-plugin-filepath
 ## Supported Platforms
 
 * Android
+  asdasdasd
 
 ## Usage
 
